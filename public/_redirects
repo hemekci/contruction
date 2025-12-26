@@ -1,0 +1,7 @@
+# Redirect domain aliases to primary domain
+https://palplanszemin.com/* https://palplanszemin.com.tr/:splat 301!
+https://www.palplanszemin.com/* https://palplanszemin.com.tr/:splat 301!
+https://www.palplanszemin.com.tr/* https://palplanszemin.com.tr/:splat 301!
+
+# Handle client-side routing
+/*  /index.html  200

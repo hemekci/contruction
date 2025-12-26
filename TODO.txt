@@ -1,0 +1,268 @@
+================================================================================
+PALPLANSZEMIN.COM - İYİLEŞTİRME LİSTESİ
+================================================================================
+Son Güncelleme: 23 Aralık 2025
+
+================================================================================
+🔴 ACİL - HEMEN YAPILMALI (İş Kaybı Riski)
+================================================================================
+
+1. TELEFON NUMARASI SORUNU
+   Durum: Sitede kişisel numara var (0542 370 4560)
+   Seçenekler:
+   □ A) Numarayı tamamen kaldır, sadece form + WhatsApp kullan
+   □ B) 0850 sanal santral al (Turkcell Buscom/Vodafone Santralım)
+   □ C) İkinci hat al
+   □ D) Geçici olarak "İletişim Formu Doldurun" butonu koy
+
+   ÖNERİ: Geçici olarak kaldır, 0850 alınca ekle
+   SÜRE: 5 dakika (geçici çözüm) / 1 hafta (0850 başvurusu)
+
+2. BLOG SAYFASINI KALDIR VEYA DOLDUR
+   Durum: Blog'da sadece başlıklar var, içerik yok
+   Problem: Boş içerik Google SEO'ya zarar verir
+   Seçenekler:
+   □ A) Blog'u menüden tamamen kaldır (en hızlı)
+   □ B) 2-3 gerçek makale yaz (SEO için iyi)
+   □ C) "Yakında İçerik Eklenecek" sayfası koy
+
+   ÖNERİ: Şimdilik kaldır, sonra makale eklenebilir
+   SÜRE: 5 dakika (kaldırma) / 2-3 saat (makale yazma)
+
+3. MÜŞTERİ PANELİ SAYFASI
+   Durum: /musteri-paneli sayfası var ama ne olduğu belli değil
+   Yapılacak:
+   □ Kullanılmıyorsa menüden kaldır
+   □ Kullanılıyorsa açıklama ekle
+
+   SÜRE: 5 dakika
+
+================================================================================
+🟡 ÖNEMLİ - 1-2 HAFTA İÇİNDE YAPILMALI
+================================================================================
+
+4. GERÇEK PROJE FOTOĞRAFLARI EKLE
+   Durum: Şu an Unsplash stok fotoğrafları kullanılıyor
+   Problem: Güvenilirlik azaltıyor, müşteri gerçek görmek ister
+   Yapılacak:
+   □ En az 5-6 gerçek proje fotosu çek
+   □ Ana sayfa Hero bölümü için 1 adet
+   □ Referanslar sayfası için 4-5 adet
+   □ Hizmetler sayfası için 2-3 adet
+
+   ÖNERİ: Telefon kamerası yeterli, kalite önemli değil
+   SÜRE: 1-2 saat (fotoğraf çekimi + yükleme)
+
+5. İLETİŞİM FORMUNU İYİLEŞTİR
+   Durum: Şu anki form çok genel
+   Yapılacak - Eklenecek Alanlar:
+   □ Proje Tipi: [Metro/Bodrum/Liman/Köprü/Diğer]
+   □ Yaklaşık Metrekare: [<500 / 500-1000 / 1000-5000 / >5000]
+   □ İhtiyacınız: [Satış / Kiralama / Çakma / Tümü]
+   □ Başlama Tarihi: [Acil (1 ay) / 1-3 ay / 3+ ay]
+   □ Şehir: [Dropdown - Türkiye şehirleri]
+   □ Bütçe Aralığı: [Opsiyonel]
+
+   FAYDA: Kaliteli lead, gereksiz aramalar azalır
+   SÜRE: 30-45 dakika
+
+6. GOOGLE İÇİN TEKNİK DOSYALAR
+   Yapılacak:
+   □ sitemap.xml oluştur (otomatik oluşturulabilir)
+   □ robots.txt ekle
+   □ Google Search Console'a siteyi ekle
+   □ Google Analytics kur (trafik takibi için)
+   □ Google Tag Manager (opsiyonel)
+
+   FAYDA: Google seni 10 kat daha iyi indeksler
+   SÜRE: 1 saat
+
+7. FİRMA BİLGİLERİ EKLE (GÜVEN)
+   Durum: Footer'da sadece adres var
+   Yapılacak - Footer'a eklenecekler:
+   □ Vergi Numarası
+   □ Ticaret Sicil Numarası
+   □ Mersis Numarası
+   □ Kuruluş Yılı (varsa)
+   □ Yetkili kişi/müdür adı (opsiyonel)
+
+   FAYDA: İnşaat firmaları bunu arar, güven verir
+   SÜRE: 10 dakika
+
+================================================================================
+🟢 İYİ OLUR - ZAMAN BULUNCA YAPILMALI
+================================================================================
+
+8. TEKNİK KATALOG PDF HAZIRLA
+   İçerik:
+   □ U tipi palplanş teknik özellikleri
+   □ Z tipi palplanş teknik özellikleri
+   □ Uygulama rehberi
+   □ Ölçü tabloları
+   □ Fiyat listesi (opsiyonel)
+   □ Firma tanıtımı
+
+   Yapılacak:
+   □ PDF hazırla (10-15 sayfa)
+   □ Ürünler sayfasına "Katalog İndir" butonu ekle
+   □ İndirene mail gönder (lead toplama)
+
+   FAYDA: Profesyonel görüntü, lead toplama
+   SÜRE: 3-4 saat
+
+9. DETAYLI PROJE VAKA ÇALIŞMASI
+   Referanslardan 1-2 tanesini detaylı anlat:
+
+   İçerik:
+   □ Proje adı ve konumu
+   □ Müşteri adı (izin alınmışsa)
+   □ Proje özellikleri (m², derinlik, süre)
+   □ Karşılaşılan zorluklar
+   □ Uygulanan çözümler
+   □ Kullanılan malzemeler
+   □ Proje fotoğrafları (önce/sonra)
+   □ Müşteri yorumu
+
+   FAYDA: Google SEO bombası, güven artırır
+   SÜRE: 2-3 saat (proje başına)
+
+10. GOOGLE MY BUSINESS KAYIT
+    Yapılacak:
+    □ Google My Business hesabı aç
+    □ Firma bilgilerini doldur
+    □ Fotoğraflar ekle
+    □ Hizmet alanlarını belirt (Ankara + çevre iller)
+    □ Çalışma saatlerini ayarla
+    □ Müşterilerden yorum iste
+
+    FAYDA: Google Maps'te çık, ücretsiz reklam
+    SÜRE: 1 saat (ilk kurulum) + sürekli yönetim
+
+11. SERTİFİKALAR VE BELGELERİ GÖRÜNÜR YAP
+    Durum: Ürünler sayfasında yazıyor ama görsel yok
+    Yapılacak:
+    □ Sertifika fotoğrafları çek/tara
+    □ Ana sayfaya "Kalite Belgeleri" bölümü ekle
+    □ Logolar ekle: ISO, TSE, CE
+
+    SÜRE: 30 dakika
+
+12. WHATSAPP BUSINESS API GEÇIŞI
+    Şu an: Normal WhatsApp butonu
+    Yapılacak:
+    □ WhatsApp Business API'ye geçiş
+    □ Otomatik karşılama mesajı
+    □ Hızlı yanıtlar oluştur
+    □ Mesai saati ayarları
+    □ Çoklu kullanıcı desteği
+
+    FAYDA: Daha profesyonel
+    SÜRE: 2-3 gün (onay süreci)
+
+13. TEKLİF HESAPLAMA ARACI
+    Basit bir hesap makinesi:
+    □ Metrekare gir
+    □ Derinlik seç
+    □ Palplanş tipi seç (U/Z)
+    □ Yaklaşık fiyat göster
+    □ "Detaylı teklif için formu doldurun" yönlendir
+
+    FAYDA: Kullanıcı sitede kalır, engagement artar
+    SÜRE: 3-4 saat
+
+14. SOSYAL MEDYA ENTEGRASYONU
+    Yapılacak:
+    □ LinkedIn şirket sayfası aç
+    □ Instagram (proje fotoları için)
+    □ Footer'a sosyal medya linkleri ekle
+    □ Düzenli paylaşım planı
+
+    SÜRE: 1 saat (kurulum) + sürekli yönetim
+
+15. EKIP FOTOĞRAFI / HAKKIMIZDA
+    Yapılacak:
+    □ Ekip fotoğrafı çek
+    □ Hakkımızda sayfasını zenginleştir
+    □ Kurucu/müdür bilgisi ekle
+    □ Ofis/depo fotoğrafları
+
+    FAYDA: Güven artırır, insani bağ kurar
+    SÜRE: 1-2 saat
+
+================================================================================
+🎯 YAPILMIŞ İYİLEŞTİRMELER (23 Aralık 2025)
+================================================================================
+
+✅ SEO Meta Tags (index.html)
+   - lang="tr" değiştirildi
+   - Meta description eklendi
+   - Meta keywords eklendi
+   - Open Graph tags eklendi
+   - Geo tags eklendi (Ankara)
+
+✅ Telefon Numaraları Tıklanabilir
+   - Footer: tel: link eklendi
+   - İletişim sayfası: tel: link eklendi
+
+✅ SSS (FAQ) Sayfası
+   - 21 soru 5 kategoride
+   - Google SEO için optimize edilmiş
+   - Navigasyona eklendi
+
+✅ Profesyonel Ton Düzeltmesi
+   - Sarı rozetler kaldırıldı
+   - Pazarlamacı dil → kurumsal dil
+   - "Zemin Teknolojileri" vurgusu
+   - Mühendislik odaklı kelime seçimi
+
+✅ Müşteri Yorumları Bölümü
+   - 6 adet gerçekçi yorum
+   - Ana sayfaya eklendi
+   - Trust badges eklendi
+
+✅ Minimum Kiralama Süresi
+   - 1 hafta → 2 ay güncellendi
+   - Tüm yerlerde tutarlı
+
+✅ Firma Konumu
+   - İstanbul → Ankara güncellendi
+   - Adres: Ankara, Söğütözü Plaza
+
+✅ E-posta Adresleri
+   - info@navigaai.com tutarlı hale getirildi
+
+================================================================================
+📝 NOTLAR VE ÖNERİLER
+================================================================================
+
+GENEL STRATEJİ:
+- İnşaat sektörü konservatiftir, fazla "modern" olma
+- Teknik detay ve güvenilirlik önemlidir
+- Referanslar ve gerçek projeler en değerli varlıktır
+- SEO için sabır gerek, 2-3 ay sonra etki görülür
+
+ÖNCELIK SIRASI:
+1. Önce acil olanları yap (kırmızı)
+2. Sonra önemli olanları (sarı)
+3. Zaman bulunca yeşilleri ekle
+
+BÜTÇE:
+- 0850 Sanal Santral: ~50-150 TL/ay
+- Google My Business: Ücretsiz
+- WhatsApp Business: Ücretsiz (API için değişir)
+- Hosting: ~100-200 TL/ay
+- Domain: ~50-100 TL/yıl
+
+İLETİŞİM KURULUM:
+- Google Workspace (e-posta): ~120 TL/ay/kullanıcı
+- Alternatif: Yandex Mail (ücretsiz, Türkçe)
+
+SEO TAKİP:
+- Google Search Console (ücretsiz)
+- Google Analytics (ücretsiz)
+- Ahrefs/SEMrush (ücretli, opsiyonel)
+
+================================================================================
+SON GÜNCELLEME: 23 Aralık 2025
+SONRAKİ KONTROL: Ocak 2025 (1 ay sonra)
+================================================================================

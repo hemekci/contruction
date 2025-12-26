@@ -1,0 +1,26 @@
+[[redirects]]
+  from = "https://palplanszemin.com/*"
+  to = "https://palplanszemin.com.tr/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.palplanszemin.com/*"
+  to = "https://palplanszemin.com.tr/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.palplanszemin.com.tr/*"
+  to = "https://palplanszemin.com.tr/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[build]
+  command = "npm run build"
+  publish = "dist"

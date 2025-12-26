@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mcp list:*)",
+      "Bash(claude mcp list:*)",
+      "Bash(claude mcp add:*)",
+      "Bash(claude mcp remove:*)",
+      "WebSearch",
+      "WebFetch(domain:www.kiwi.com)",
+      "WebFetch(domain:www.china-steelpiling.com)",
+      "WebFetch(domain:china-steelpiling.com)",
+      "WebFetch(domain:sheetpiling.arcelormittal.com)",
+      "WebFetch(domain:pilebuck.com)",
+      "WebFetch(domain:www.high-strength-steel.com)",
+      "Bash(npm install:*)",
+      "Bash(npm cache clean:*)",
+      "Bash(npm run build:*)",
+      "Bash(node /Users/hemekci/Desktop/Contruction-main/scripts/generate-pdf.js:*)",
+      "Bash(node /Users/hemekci/Desktop/Contruction-main/scripts/generate-pdf.cjs:*)"
+    ]
+  }
+}

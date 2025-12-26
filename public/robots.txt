@@ -1,0 +1,27 @@
+# Robots.txt for palplanszemin.com.tr
+# Naviga Palplanş - Zemin İksa Sistemleri
+
+User-agent: *
+Allow: /
+
+# Ana sayfalar
+Allow: /urunler
+Allow: /hizmetler
+Allow: /referanslar
+Allow: /iletisim
+Allow: /sss
+Allow: /blog
+
+# Blog makaleleri
+Allow: /blog/palplans-nedir-cesitleri-kullanim-alanlari
+Allow: /blog/palplans-kiralama-mi-satin-alma-mi
+Allow: /blog/derin-kazi-projelerinde-palplans
+
+# Engellenen sayfalar (fonksiyonel olmayan)
+Disallow: /musteri-paneli
+
+# Sitemap konumu
+Sitemap: https://palplanszemin.com.tr/sitemap.xml
+
+# Crawl hızı (isteğe bağlı)
+Crawl-delay: 1
