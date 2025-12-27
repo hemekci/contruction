@@ -26,30 +26,6 @@ const Testimonials = () => {
       text: "Kiralama sürecinde çok esnek davrandılar. Proje uzayınca ek süre için uygun fiyat verdiler. Malzemeler bakımlı ve kullanıma hazır geldi. Teknik destek ekibi her zaman ulaşılabilirdi.",
       rating: 5,
       project: "Şev Stabilizasyonu Projesi"
-    },
-    {
-      name: "Fatma Özkan",
-      company: "Büyükşehir Belediyesi",
-      role: "İmar Müdürü",
-      text: "Acil bir projemiz vardı, 48 saat içinde saha keşfi yaptılar ve 3 gün sonra çakma başladı. Bu hız bizim için çok önemliydi. Hem hızlı hem kaliteli hizmet aldık.",
-      rating: 5,
-      project: "Altyapı Çalışması - Kızılay"
-    },
-    {
-      name: "Hasan Çelik",
-      company: "Yapı İnşaat San. Tic.",
-      role: "İnşaat Mühendisi",
-      text: "Fiyat/performans oranı çok iyi. Başka firmalardan da teklif almıştık ama Naviga hem fiyat hem de hizmet kalitesi olarak öne çıktı. Satış, kiralama ve uygulama hizmetlerini tek çatıda bulabilmek büyük avantaj.",
-      rating: 5,
-      project: "Konut Projesi Temel Kazısı"
-    },
-    {
-      name: "Zeynep Aydın",
-      company: "Proje Yönetim Dan. Ltd.",
-      role: "Proje Koordinatörü",
-      text: "Mühendislik danışmanlığı hizmeti çok faydalı oldu. Zemin raporumuzu analiz edip en uygun palplanş tipini önerdiler. 7/24 teknik destek gerçekten işe yarıyor, saha sorunlarında hemen çözüm buluyorlar.",
-      rating: 5,
-      project: "Karma Kullanım Projesi"
     }
   ];
 
