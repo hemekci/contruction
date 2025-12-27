@@ -132,8 +132,8 @@ ${formData.message}
                   <Mail className="w-5 h-5 text-blue-900 mt-1" />
                   <div>
                     <h3 className="font-medium">E-posta</h3>
-                    <a href="mailto:info@navigaai.com" className="text-gray-600 hover:text-blue-900 transition-colors">
-                      info@navigaai.com
+                    <a href="mailto:info@navigapalplans.com" className="text-gray-600 hover:text-blue-900 transition-colors">
+                      info@navigapalplans.com
                     </a>
                   </div>
                 </div>
