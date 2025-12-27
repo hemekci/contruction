@@ -11,6 +11,7 @@ const Navbar = () => {
     { path: '/urunler', label: 'Ürünler' },
     { path: '/hizmetler', label: 'Hizmetler' },
     { path: '/referanslar', label: 'Referanslar' },
+    { path: '/blog', label: 'Blog' },
     { path: '/sss', label: 'SSS' },
     { path: '/iletisim', label: 'İletişim' },
   ];

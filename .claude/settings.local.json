@@ -16,7 +16,19 @@
       "Bash(npm cache clean:*)",
       "Bash(npm run build:*)",
       "Bash(node /Users/hemekci/Desktop/Contruction-main/scripts/generate-pdf.js:*)",
-      "Bash(node /Users/hemekci/Desktop/Contruction-main/scripts/generate-pdf.cjs:*)"
+      "Bash(node /Users/hemekci/Desktop/Contruction-main/scripts/generate-pdf.cjs:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(gh auth status:*)",
+      "mcp__github__create_repository",
+      "mcp__netlify__netlify-project-services-reader",
+      "Bash(netlify login:*)",
+      "Bash(netlify deploy:*)",
+      "Bash(netlify sites:create:*)",
+      "mcp__netlify__netlify-team-services-reader",
+      "mcp__netlify__netlify-project-services-updater",
+      "mcp__netlify__netlify-deploy-services-updater",
+      "mcp__netlify__netlify-deploy-services-reader"
     ]
   }
 }
